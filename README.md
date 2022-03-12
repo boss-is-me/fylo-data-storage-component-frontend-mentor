@@ -16,6 +16,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ## Get Started
 
+- Download the folder
 - Open index.html file in your browser
 - If you want to edit tailwindcss code, make these first.
   - `npm i`
@@ -38,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/boss-is-me/fylo-data-storage-component-frontend-mentor](https://github.com/boss-is-me/fylo-data-storage-component-frontend-mentor)
-- Live Site URL: []()
+- Live Site URL: [https://boss-is-me.github.io/fylo-data-storage-component-frontend-mentor/](https://boss-is-me.github.io/fylo-data-storage-component-frontend-mentor/)
 
 ## My process
 
